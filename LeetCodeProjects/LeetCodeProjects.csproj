@@ -76,6 +76,10 @@
     <Compile Include="Problems41-50\Permutations2.cs" />
     <Compile Include="Problems41-50\Permutations.cs" />
     <Compile Include="Problems01-10\AddTwoNumbers.cs" />
+    <Compile Include="Problems51-60\NQueens2.cs" />
+    <Compile Include="Problems51-60\NQueens.cs" />
+    <Compile Include="Problems51-60\SpiralMatrix2.cs" />
+    <Compile Include="Problems51-60\SpiralMatrix.cs" />
     <Compile Include="Unsorted\BestTimeToBuyAndSellStock2.cs" />
     <Compile Include="Unsorted\BestTimeToBuyAndSellStock3.cs" />
     <Compile Include="Unsorted\BinaryTreeMaximumPathSum.cs" />

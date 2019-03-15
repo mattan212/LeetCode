@@ -63,6 +63,7 @@
     <Compile Include="LongestValidParenthesesTests.cs" />
     <Compile Include="MinimumMovesToEqualArrayElements2Tests.cs" />
     <Compile Include="NextPermutationTests.cs" />
+    <Compile Include="NQueensTests.cs" />
     <Compile Include="PathSum3Tests.cs" />
     <Compile Include="CoinChangeTests.cs" />
     <Compile Include="PathSumTests.cs" />

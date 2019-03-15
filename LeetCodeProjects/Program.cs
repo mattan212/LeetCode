@@ -22,7 +22,7 @@ namespace LeetCodeProjects
             Console.WriteLine("I hope you find this useful, and feel free to send your comments and feedback.");
             Console.WriteLine("\nPlease remember, these are my solutions and not anyone's else. There might be a better solution, hell, there might a LeetCode published solution that's better. (though more often that not, my solutions are at the top 90% of runtime for C#.)");
             Console.WriteLine("The code here is for reference, education, and assistance to those of you out there that need it.");
-            Console.WriteLine("\nFeel free to check out my website at http://mattanm.com, or follow me on Twitter @matt.guitar.");
+            Console.WriteLine("\nFeel free to check out my website at https://mattanm.com, or follow me on Twitter at @MattanGuitar.");
             Console.WriteLine("\nCheers and good luck!");
             Console.WriteLine("\nMattan.");
             Console.ReadKey();
