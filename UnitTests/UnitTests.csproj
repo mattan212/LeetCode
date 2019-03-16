@@ -76,6 +76,7 @@
     <Compile Include="SnakesAndLaddersTests.cs" />
     <Compile Include="SudokuSolverTests.cs" />
     <Compile Include="TrappingRainWaterTests.cs" />
+    <Compile Include="UniquePaths2Tests.cs" />
     <Compile Include="ZumaGameTests.cs" />
     <Compile Include="_132PatternTests.cs" />
     <Compile Include="_3SumTests.cs" />
