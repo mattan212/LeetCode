@@ -90,6 +90,15 @@
     <Compile Include="Problems61-70\UniquePaths2.cs" />
     <Compile Include="Problems61-70\UniquePaths.cs" />
     <Compile Include="Problems61-70\ValidNumber.cs" />
+    <Compile Include="Problems71-80\EditDistance.cs" />
+    <Compile Include="Problems71-80\RemoveDuplicatesFromSortedArray2.cs" />
+    <Compile Include="Problems71-80\Subsets.cs" />
+    <Compile Include="Problems71-80\Combinations.cs" />
+    <Compile Include="Problems71-80\SearchA2DMatrix.cs" />
+    <Compile Include="Problems71-80\SetMatrixZeroes.cs" />
+    <Compile Include="Problems71-80\SimplifyPath.cs" />
+    <Compile Include="Problems71-80\SortColors.cs" />
+    <Compile Include="Problems71-80\WordSearch.cs" />
     <Compile Include="Unsorted\BestTimeToBuyAndSellStock2.cs" />
     <Compile Include="Unsorted\BestTimeToBuyAndSellStock3.cs" />
     <Compile Include="Unsorted\BinaryTreeMaximumPathSum.cs" />
@@ -121,7 +130,7 @@
     <Compile Include="Unsorted\MinimumMovesToEqualArrayElements2.cs" />
     <Compile Include="Problems61-70\MinimumPathSum.cs" />
     <Compile Include="Unsorted\MinStack.cs" />
-    <Compile Include="Problems71-80\MinWindowSubstring.cs" />
+    <Compile Include="Problems71-80\MinimumWindowSubstring.cs" />
     <Compile Include="Problems31-40\NextPermutation.cs" />
     <Compile Include="Unsorted\NumberComplement.cs" />
     <Compile Include="Unsorted\NumberOfIslands.cs" />

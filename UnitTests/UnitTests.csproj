@@ -62,6 +62,7 @@
     <Compile Include="KnightsDialerTests.cs" />
     <Compile Include="LongestValidParenthesesTests.cs" />
     <Compile Include="MinimumMovesToEqualArrayElements2Tests.cs" />
+    <Compile Include="MinimumWindowSubstringTests.cs" />
     <Compile Include="NextPermutationTests.cs" />
     <Compile Include="NQueensTests.cs" />
     <Compile Include="PathSum3Tests.cs" />
