@@ -99,6 +99,26 @@
     <Compile Include="Problems71-80\SimplifyPath.cs" />
     <Compile Include="Problems71-80\SortColors.cs" />
     <Compile Include="Problems71-80\WordSearch.cs" />
+    <Compile Include="Problems81-90\MergeSortedArray.cs" />
+    <Compile Include="Problems81-90\ScrambleString.cs" />
+    <Compile Include="Problems91-100\BinaryTreeInorderTraversal.cs" />
+    <Compile Include="Problems91-100\DecodeWays.cs" />
+    <Compile Include="Problems81-90\GrayCode.cs" />
+    <Compile Include="Problems81-90\LargestRectangleInHistogram.cs" />
+    <Compile Include="Problems81-90\MaximalRectangle.cs" />
+    <Compile Include="Problems81-90\PartitionList.cs" />
+    <Compile Include="Problems81-90\RemoveDuplicatesFromSortedList.cs" />
+    <Compile Include="Problems81-90\RemoveDuplicatesFromSortedList2.cs" />
+    <Compile Include="Problems81-90\SearchInRotatedSortedArray2.cs" />
+    <Compile Include="Problems81-90\Subsets2.cs" />
+    <Compile Include="Problems91-100\InterleavingString.cs" />
+    <Compile Include="Problems91-100\RecoverBinarySearchTree.cs" />
+    <Compile Include="Problems91-100\RestoreIpAddresses.cs" />
+    <Compile Include="Problems91-100\ReverseLinkedList2.cs" />
+    <Compile Include="Problems91-100\SameTree.cs" />
+    <Compile Include="Problems91-100\UniqueBinarySearchTrees.cs" />
+    <Compile Include="Problems91-100\UniqueBinarySearchTrees2.cs" />
+    <Compile Include="Problems91-100\ValidateBinarySearchTree.cs" />
     <Compile Include="Unsorted\BestTimeToBuyAndSellStock2.cs" />
     <Compile Include="Unsorted\BestTimeToBuyAndSellStock3.cs" />
     <Compile Include="Unsorted\BinaryTreeMaximumPathSum.cs" />
@@ -113,7 +133,6 @@
     <Compile Include="Unsorted\FindPeakElement.cs" />
     <Compile Include="Unsorted\FreedomTrail.cs" />
     <Compile Include="Unsorted\GenerateRandomPointInACircle.cs" />
-    <Compile Include="Unsorted\InterleavingString.cs" />
     <Compile Include="Unsorted\IslandPerimeter.cs" />
     <Compile Include="Unsorted\KnightsDialer.cs" />
     <Compile Include="LeetModels\ListNode.cs" />
@@ -159,6 +178,7 @@
     <Compile Include="Unsorted\RectangleArea.cs" />
     <Compile Include="Problems01-10\RegularExpressionMatching.cs" />
     <Compile Include="Problems01-10\ReverseInteger.cs" />
+    <Compile Include="Unsorted\ReverseLinkedList.cs" />
     <Compile Include="Unsorted\ReverseNodesInKGroup.cs" />
     <Compile Include="Problems31-40\SearchInRotatedSortedArray.cs" />
     <Compile Include="Unsorted\SelfDividingNumbers.cs" />
@@ -178,9 +198,6 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Problems81-90\" />
-    <Folder Include="Problems91-100\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
