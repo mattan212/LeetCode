@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
-namespace LeetCodeProjects
+namespace LeetCodeProjects.Unsorted
 {
     /// <summary>
     /// https://leetcode.com/problems/self-dividing-numbers/

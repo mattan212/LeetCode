@@ -1,4 +1,4 @@
-﻿using LeetCodeProjects.Problems91_100;
+﻿using LeetCodeProjects;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTests

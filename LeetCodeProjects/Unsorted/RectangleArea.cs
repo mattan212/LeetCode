@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LeetCodeProjects
+namespace LeetCodeProjects.Unsorted
 {
     /// <summary>
     /// https://leetcode.com/problems/rectangle-area/description/

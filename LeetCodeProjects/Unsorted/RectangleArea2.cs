@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LeetCodeProjects
+namespace LeetCodeProjects.Unsorted
 {
     /// <summary>
     /// https://leetcode.com/problems/rectangle-area/description/

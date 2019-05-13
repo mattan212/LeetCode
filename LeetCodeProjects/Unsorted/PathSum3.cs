@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using LeetCodeProjects.LeetModels;
+﻿using LeetCodeProjects.LeetModels;
 
-namespace LeetCodeProjects
+namespace LeetCodeProjects.Unsorted
 {
     /// <summary>
     /// https://leetcode.com/problems/path-sum-iii/description/

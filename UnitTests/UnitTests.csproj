@@ -57,8 +57,10 @@
     <Compile Include="CanIWinTests.cs" />
     <Compile Include="Combination2SumTests.cs" />
     <Compile Include="CombinationSumTests.cs" />
+    <Compile Include="ConstructBinaryTreeFromPreorderAndInorderTraversalTests.cs" />
     <Compile Include="CountTheRepetitionsTests.cs" />
     <Compile Include="DecodeWaysTests.cs" />
+    <Compile Include="DistinctSubsequencesTests.cs" />
     <Compile Include="GrayCodeTests.cs" />
     <Compile Include="JumpGame2Tests.cs" />
     <Compile Include="KnightsDialerTests.cs" />

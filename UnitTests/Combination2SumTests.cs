@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using LeetCodeProjects.Problems31_40;
-using LeetCodeProjects.Problems41_50;
+using LeetCodeProjects;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTests

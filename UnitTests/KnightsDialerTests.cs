@@ -1,4 +1,5 @@
 ﻿using LeetCodeProjects;
+using LeetCodeProjects.Unsorted;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTests

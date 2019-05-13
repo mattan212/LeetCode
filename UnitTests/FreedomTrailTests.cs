@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using LeetCodeProjects;
+using LeetCodeProjects.Unsorted;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTests

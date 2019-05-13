@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LeetCodeProjects
+namespace LeetCodeProjects.Unsorted
 {
     /// <summary>
     /// https://leetcode.com/problems/generate-random-point-in-a-circle/submissions/

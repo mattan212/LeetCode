@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using LeetCodeProjects;
+using LeetCodeProjects.Unsorted;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTests
