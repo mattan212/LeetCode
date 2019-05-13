@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="LeetModels\Interval.cs" />
+    <Compile Include="LeetModels\Node.cs" />
     <Compile Include="LeetModels\NTree.cs" />
     <Compile Include="Problems011-020\3SumClosest.cs" />
     <Compile Include="Problems011-020\4Sum.cs" />
@@ -131,6 +132,11 @@
     <Compile Include="Problems101-110\SymmetricTree.cs" />
     <Compile Include="Problems111-120\FlattenBinaryTreeToLinkedList.cs" />
     <Compile Include="Problems111-120\MinimumDepthOfBinaryTree.cs" />
+    <Compile Include="Problems111-120\PascalsTriangle.cs" />
+    <Compile Include="Problems111-120\PascalsTriangle2.cs" />
+    <Compile Include="Problems111-120\PopulatingNextRightPointersInEachNode.cs" />
+    <Compile Include="Problems111-120\PopulatingNextRightPointersInEachNode2.cs" />
+    <Compile Include="Problems111-120\Triangle.cs" />
     <Compile Include="Unsorted\BestTimeToBuyAndSellStock2.cs" />
     <Compile Include="Unsorted\BestTimeToBuyAndSellStock3.cs" />
     <Compile Include="Unsorted\BinaryTreeMaximumPathSum.cs" />
@@ -138,7 +144,7 @@
     <Compile Include="Unsorted\CoinChange.cs" />
     <Compile Include="Unsorted\CompareVersionNumbers.cs" />
     <Compile Include="Unsorted\CountTheRepetitions.cs" />
-    <Compile Include="Unsorted\DistinctSubsequences.cs" />
+    <Compile Include="Problems111-120\DistinctSubsequences.cs" />
     <Compile Include="Problems021-030\DivideTwoIntegers.cs" />
     <Compile Include="Unsorted\FindMinimumInRotatedSortedArray2.cs" />
     <Compile Include="Unsorted\FindMinimumInRotatedSortedArray.cs" />
@@ -166,8 +172,8 @@
     <Compile Include="Unsorted\NumberComplement.cs" />
     <Compile Include="Unsorted\NumberOfIslands.cs" />
     <Compile Include="Problems001-010\PalindromeNumber.cs" />
-    <Compile Include="Unsorted\PathSum.cs" />
-    <Compile Include="Unsorted\PathSum2.cs" />
+    <Compile Include="Problems111-120\PathSum.cs" />
+    <Compile Include="Problems111-120\PathSum2.cs" />
     <Compile Include="Unsorted\PathSum3.cs" />
     <Compile Include="Problems031-040\CombinationSum.cs" />
     <Compile Include="Problems031-040\LongestValidParentheses.cs" />
