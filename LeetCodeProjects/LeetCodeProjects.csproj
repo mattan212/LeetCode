@@ -45,6 +45,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Contributions\AgnosticStringReplace.cs" />
+    <Compile Include="Contributions\AreAnagrams.cs" />
+    <Compile Include="Contributions\ConcurrentQueue.cs" />
+    <Compile Include="Contributions\CountingValleys.cs" />
+    <Compile Include="Contributions\HiringManager.cs" />
     <Compile Include="LeetModels\Interval.cs" />
     <Compile Include="LeetModels\Node.cs" />
     <Compile Include="LeetModels\NTree.cs" />
@@ -137,6 +142,11 @@
     <Compile Include="Problems111-120\PopulatingNextRightPointersInEachNode.cs" />
     <Compile Include="Problems111-120\PopulatingNextRightPointersInEachNode2.cs" />
     <Compile Include="Problems111-120\Triangle.cs" />
+    <Compile Include="Problems121-130\ValidPalindrome.cs" />
+    <Compile Include="Problems131-140\PalindromePartitioning.cs" />
+    <Compile Include="Problems131-140\PalindromePartitioning2.cs" />
+    <Compile Include="Unsorted\BasicCalculator.cs" />
+    <Compile Include="Unsorted\BasicCalculator2.cs" />
     <Compile Include="Unsorted\BestTimeToBuyAndSellStock2.cs" />
     <Compile Include="Unsorted\BestTimeToBuyAndSellStock3.cs" />
     <Compile Include="Unsorted\BinaryTreeMaximumPathSum.cs" />
@@ -216,8 +226,6 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Problems121-130\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

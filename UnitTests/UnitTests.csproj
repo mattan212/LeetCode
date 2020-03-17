@@ -50,18 +50,27 @@
     <Reference Include="Moq, Version=4.5.28.0, Culture=neutral, PublicKeyToken=69f491c39445e920, processorArchitecture=MSIL">
       <HintPath>..\packages\Moq.4.5.28\lib\net45\Moq.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AgnosticStringReplaceTests.cs" />
+    <Compile Include="AreAnagramsTests.cs" />
+    <Compile Include="BasicCalculatorTests.cs" />
     <Compile Include="CanIWinTests.cs" />
     <Compile Include="Combination2SumTests.cs" />
     <Compile Include="CombinationSumTests.cs" />
+    <Compile Include="ConcurrentQueueTests.cs" />
     <Compile Include="ConstructBinaryTreeFromPreorderAndInorderTraversalTests.cs" />
     <Compile Include="CountTheRepetitionsTests.cs" />
+    <Compile Include="CountValleysTests.cs" />
     <Compile Include="DecodeWaysTests.cs" />
     <Compile Include="DistinctSubsequencesTests.cs" />
     <Compile Include="GrayCodeTests.cs" />
+    <Compile Include="HiringManagerTests.cs" />
     <Compile Include="JumpGame2Tests.cs" />
     <Compile Include="KnightsDialerTests.cs" />
     <Compile Include="LargestRectangleInHistogramTests.cs" />
@@ -71,6 +80,7 @@
     <Compile Include="MinimumWindowSubstringTests.cs" />
     <Compile Include="NextPermutationTests.cs" />
     <Compile Include="NQueensTests.cs" />
+    <Compile Include="PalindromePartitioningTests.cs" />
     <Compile Include="PathSum3Tests.cs" />
     <Compile Include="CoinChangeTests.cs" />
     <Compile Include="PathSumTests.cs" />
